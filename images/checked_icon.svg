@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.15 136.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #c6c6c6;
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>AI_Icons</title>
+  <g id="checked_icon">
+    <circle id="circle" class="cls-1" cx="77.35" cy="67.59" r="43"/>
+    <polyline id="checkSign" class="cls-2" points="53.35 67.59 71.35 82.59 98.35 50.59"/>
+  </g>
+</svg>

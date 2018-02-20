@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.15 136.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #c6c6c6;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <title>signUp</title>
+  <g id="signUp_icon">
+    <path id="person" class="cls-1" d="M89.29,114.43H14.52s-4.47-17.86,29-26.79V70.9s-23.67-41.18,11-56.3a16,16,0,0,1,11.21,0c34.72,15.12,11,56.3,11,56.3V87.64s21.1,4.25,26.68,11"/>
+    <polygon id="pen" class="cls-2" points="99 118.09 128.12 87.18 135.94 92.76 105.8 126.24 95.76 129.59 99 118.09"/>
+  </g>
+</svg>
