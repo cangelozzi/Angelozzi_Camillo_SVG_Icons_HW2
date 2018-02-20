@@ -7,6 +7,7 @@
   }
   svgs.forEach(svg => svg.addEventListener('click', logThisSVG));
 
+
   //  SIGN IN ICON
   let signIn = document.getElementById('signIn_icon');
 
@@ -22,12 +23,13 @@
   //  SIGN UP ICON
   let signUp = document.getElementById('signUpSvg');
 
-  function shadow() {
-    signUp.classList.add('shadow');
-    console.log('Shadow added!');
-    setTimeout(() => signUp.classList.remove('shadow'), 200);
+  function letsWrite() {
+    let pen = document.getElementById('pen');
+    pen.classList.add('penMove');
+    console.log('Moving Pen');
+    setTimeout(() => pen.classList.remove('penMove'), 900);
   }
-  signUp.addEventListener('click', shadow);
+  signUp.addEventListener('click', letsWrite);
 
 
   //  CHECKED ICON
@@ -43,17 +45,18 @@
   //  CROSSED ICON
   let circleCross = document.getElementById('crossedSvg');
 
-  function circleRed() {
+  function circleRotate() {
     circleCross.classList.add('rotate');
-    console.log("circle is red");
+    console.log("circle is moving");
     setTimeout(() => circleCross.classList.remove('rotate'), 1500);
   }
-  circleCross.addEventListener('mouseover', circleRed);
+  circleCross.addEventListener('mouseover', circleRotate);
 
   //  HOME ICON
   let home = document.getElementById('homeSvg');
 
   function disappear() {
+
     home.classList.add('noHouse');
     console.log("house is disappeared");
     setTimeout(() => home.classList.remove('noHouse'), 1500);
@@ -63,12 +66,13 @@
   //  PIN ICON
   let pin = document.getElementById('pinSvg');
 
-  function pinskew() {
-    pin.classList.add('pinMove');
-    console.log("pin skewed");
-    setTimeout(() => pin.classList.remove('pinMove'), 500);
+  function circleOut() {
+    let littleCircle = document.getElementById('pinCircle');
+    littleCircle.classList.add('circlePop');
+    console.log("Little circle getting bigger");
+    setTimeout(() => littleCircle.classList.remove('circlePop'), 500);
   }
-  pin.addEventListener('click', pinskew);
+  pin.addEventListener('click', circleOut);
 
   //  YOUTUBE ICON
   let youtube = document.getElementById('youtubeSvg');
@@ -112,9 +116,6 @@
     setTimeout(() => likeSvg.classList.remove('moveHand'), 500);
   }
   likeSvg.addEventListener('click', likeIt);
-
-
-
 
 
 })();
