@@ -1,0 +1,27 @@
+<svg id="signIn_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132.04 135.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #c6c6c6;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: bevel;
+      }
+    </style>
+  </defs>
+  <rect id="rectangle" class="cls-1" x="32.54" y="13.59" width="85" height="112" rx="12" ry="12"/>
+  <g id="arrow">
+    <line class="cls-2" x1="10.54" y1="68.59" x2="82.54" y2="69.59"/>
+    <line class="cls-2" x1="56.54" y1="41.59" x2="82.54" y2="69.59"/>
+    <line class="cls-2" x1="57.54" y1="95.59" x2="82.54" y2="69.59"/>
+  </g>
+</svg>

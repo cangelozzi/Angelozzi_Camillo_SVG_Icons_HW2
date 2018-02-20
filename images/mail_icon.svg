@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.15 136.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c6c6c6;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>AI_Icons</title>
+  <g id="mail_icon">
+    <rect id="envelope" class="cls-1" x="31.41" y="40.09" width="84" height="54"/>
+    <polyline id="top" class="cls-1" points="31.41 40.09 72.41 77.09 115.41 40.09"/>
+    <line id="side" class="cls-1" x1="31.41" y1="94.09" x2="61.33" y2="67.09"/>
+    <line id="side-2" data-name="side" class="cls-1" x1="115.41" y1="94.09" x2="84.03" y2="67.09"/>
+  </g>
+</svg>

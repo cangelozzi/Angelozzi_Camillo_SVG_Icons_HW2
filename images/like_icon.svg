@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.15 136.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c6c6c6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>AI_Icons</title>
+  <g id="like_icon">
+    <rect id="shirt" class="cls-1" x="43.41" y="49.09" width="17" height="41"/>
+    <circle id="button" class="cls-1" cx="51.91" cy="79.59" r="5"/>
+    <path id="hand" class="cls-1" d="M60.91,88.59H89.62A11.89,11.89,0,0,0,96,86.81a6.08,6.08,0,0,0,1-.74c1.45-1.48,2.45-3.48-2.69-6l-.86-.46h-9s18.61.76,16.31-5.74a5.07,5.07,0,0,0-4.84-3.26H85.41s22.86-.3,17.5-7a5.88,5.88,0,0,0-4.88-2H85.41s23-.82,15.4-7.68a9.42,9.42,0,0,0-6.3-2.32H80.41l1.44-12.27A10.62,10.62,0,0,0,78,29.71c-2.37-1.87-5.12-2.62-6.62,1.88,0,0,0,23-10,20"/>
+  </g>
+</svg>

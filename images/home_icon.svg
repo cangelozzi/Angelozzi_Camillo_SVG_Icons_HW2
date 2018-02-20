@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.15 136.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c6c6c6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>AI_Icons</title>
+  <g id="home_icon">
+    <polyline id="base" class="cls-1" points="43.06 57.59 43.06 100.59 102.06 100.59 102.06 55.59"/>
+    <polyline id="roof" class="cls-1" points="35.06 61.59 73.06 23.59 111.06 61.59"/>
+    <polyline id="door" class="cls-1" points="63.06 98.59 63.06 77.59 82.06 77.59 82.06 98.59"/>
+  </g>
+</svg>

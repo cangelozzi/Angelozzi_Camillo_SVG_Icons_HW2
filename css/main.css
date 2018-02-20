@@ -1,0 +1,181 @@
+.hidden {
+  display: none;
+}
+
+main {
+  width: 960px;
+  margin: 0 auto;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+section {
+  margin-bottom: 60px;
+}
+
+.container {
+  width: 48%;
+  display: inline-block;
+}
+
+svg {
+  width: 100px;
+}
+
+
+
+
+
+/* SignIn icon */
+
+#signIn_icon:hover .cls-1,
+#signIn_icon:hover .cls-2 {
+  stroke: green;
+}
+
+.move {
+  transform: translateX(28px);
+  transition: transform 0.3s ease-in;
+}
+
+
+
+
+
+/* SignUp icon */
+
+#signUp svg:hover #pen {
+  fill: #000;
+}
+
+.shadow {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+
+/* Checked icon */
+
+#checked_icon #circle:hover {
+  fill: green;
+}
+
+.bigger {
+  transform: scale(2);
+}
+
+
+
+
+
+/* Crossed icon */
+
+#crossed_Sign:hover line {
+  stroke: red;
+  stroke-width: 12px;
+}
+
+.rotate {
+  transform: rotate(90deg);
+  transition: transform 1s ease-in;
+}
+
+
+
+
+
+/* Home icon */
+
+#homeSvg:hover #door {
+  fill: orange;
+}
+
+.noHouse {
+  visibility: hidden;
+}
+
+
+
+
+
+/* Pin icon */
+
+#pinSvg:hover path {
+  fill: red;
+}
+
+#pinSvg:hover circle {
+  fill: blue;
+}
+
+.pinMove {
+  transform: skew(20deg);
+}
+
+
+
+
+
+/* Youtube icon */
+
+#youtubeSvg:hover rect {
+  fill: red;
+}
+
+#youtubeSvg:hover polygon {
+  fill: white;
+}
+
+
+
+
+
+/* Lock icon */
+
+#lockSvg:hover #body {
+  fill: green;
+}
+
+.openLock {
+  transform: translateX(20px);
+}
+
+
+
+
+
+/* Mail icon */
+
+#mailSvg:hover {
+  transform: scale(1.4);
+  transition: transform .3s ease-in;
+}
+
+.openMail {
+  transform: rotate(-180deg);
+  transform-origin: 51% 30%;
+}
+
+
+
+/* Like icon */
+
+#likeSvg:hover #shirt {
+  fill: blue;
+}
+
+#likeSvg:hover #button {
+  fill: white;
+}
+
+#likeSvg:hover #hand {
+  stroke: blue;
+}
+
+.moveHand {
+  transform: rotate(-20deg);
+  transform-origin: 21% 10%;
+}

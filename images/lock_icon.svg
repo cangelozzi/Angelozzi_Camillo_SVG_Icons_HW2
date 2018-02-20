@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.15 136.05">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #c6c6c6;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #c6c6c6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <title>AI_Icons</title>
+  <g id="youtube_icon">
+    <rect class="cls-1" x="53.41" y="91.09" width="49" height="7"/>
+  </g>
+  <g id="lock_icon">
+    <rect id="base" class="cls-1" x="54.91" y="90.59" width="46" height="7"/>
+    <rect id="body" class="cls-2" x="54.91" y="62.09" width="46" height="29.5"/>
+    <ellipse id="hole" class="cls-3" cx="77.91" cy="77.09" rx="4.5" ry="7"/>
+    <path id="loop" class="cls-4" d="M65.91,62.09V50.92a14.38,14.38,0,0,1,8-13.08,10.87,10.87,0,0,1,11,.5,13.3,13.3,0,0,1,6,11.31V62.09"/>
+  </g>
+</svg>

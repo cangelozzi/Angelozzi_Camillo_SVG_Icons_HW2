@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.15 136.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c6c6c6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>AI_Icons</title>
+  <g id="pin_icon">
+    <path class="cls-1" d="M92.91,50.59a24,24,0,0,0-48,0c0,7,7.88,17.78,7.88,17.78L68.91,95.59S92.91,57.64,92.91,50.59Z"/>
+    <circle class="cls-1" cx="68.91" cy="50.59" r="8"/>
+    <polyline class="cls-1" points="54.91 75.59 42.91 75.59 28.91 102.59 106.91 102.59 94.91 75.59 81.41 75.59"/>
+  </g>
+</svg>
