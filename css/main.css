@@ -17,6 +17,11 @@ section {
   display: inline-block;
 }
 
+
+h1 {
+  margin-bottom: 60px;
+}
+
 svg {
   width: 100px;
 }
@@ -47,10 +52,9 @@ svg {
   fill: #000;
 }
 
-.shadow {
-  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+.penMove {
+  transform: rotate(-15deg);
+  transform-origin: 51% 30%;
 }
 
 
@@ -59,7 +63,7 @@ svg {
 
 /* Checked icon */
 
-#checked_icon #circle:hover {
+#checked_icon #circle_checked:hover {
   fill: green;
 }
 
@@ -111,8 +115,9 @@ svg {
   fill: blue;
 }
 
-.pinMove {
-  transform: skew(20deg);
+.circlePop {
+  transform: scale(2);
+  transform-origin: 48% 35%;
 }
 
 
@@ -158,6 +163,8 @@ svg {
   transform: rotate(-180deg);
   transform-origin: 51% 30%;
 }
+
+
 
 
 
